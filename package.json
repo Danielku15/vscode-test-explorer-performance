@@ -1,0 +1,17 @@
+{
+  "name": "vscode-many-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".mocharc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/mocha": "^10.0.10",
+    "@types/node": "^22.10.7",
+    "mocha": "^11.0.1",
+    "tsx": "^4.19.2"
+  }
+}

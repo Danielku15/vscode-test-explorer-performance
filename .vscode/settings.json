@@ -1,0 +1,20 @@
+{
+  "mocha-vscode.extractSettings":{
+    "suite": [
+        "describe",
+        "suite"
+    ],
+    "test": [
+        "it",
+        "test"
+    ],
+    "hooks": [
+        "before",
+        "after",
+        "beforeEach",
+        "afterEach"
+    ],
+    "extractWith": "evaluation-cjs",
+    "extractTimeout": 10000
+  }
+}
